@@ -7,16 +7,16 @@
 ### <div align="center">I'm JianWei, a full-time linux_c_programer  👨‍💻 working remotely since 2020 🚀</div>  
   
 
-- 🔭 I’m currently working on High performance protocol processing area
+<div align="left">- 🔭 I’m currently working on High performance protocol processing area</div> 
   
 
-- 🌱 I’m currently learning   c/c++ back_end although I'm interested in rust 
+<div align="left">- 🌱 I’m currently learning   c/c++ back_end although I'm interested in rust </div> 
   
 
-- ❓ I don't know  too much ,so I keeping learning and trying to beyond myself  
+<div align="left">- ❓ I don't know  too much ,so I keeping learning and trying to beyond myself  </div> 
   
 
-- ⚡ Fun fact: I also have a  Programming Interest Group
+<div align="left">- ⚡ Fun fact: I also have a  Programming Interest Group</div> 
   
 
 <br/>  
@@ -65,31 +65,12 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" />
 </div>  
+
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JianWei777&layout=compact&theme=tokyonight" align="center" />
 </div>  
-
+<br/>  
 <br/>  
 
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<br />
 
 
 
